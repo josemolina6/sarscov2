@@ -7,3 +7,6 @@ En este sitio encontrará un resumen de los principales hallazgos de la vigilanc
 
 Para acceder a los resultados, ingrese al siguiente link:
 [PRINCIPALES RESULTADOS DE LA VIGILANCIA GENÓMICA](https://github.com/josemolina6/sarscov2/wiki)
+
+_Contacto:_
+Dr. Jose Arturo Molina Mora, Ph.D. Microbiólogo bioinformático de la Facultad de Microbiología, Universidad de Costa Rica. E-mail: jose.molinamora@ucr.ac.cr
