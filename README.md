@@ -1,4 +1,4 @@
-# Vigilancia genómica de SARS-CoV-2 en Costa Rica: Bioinformática e inteligecia artificial en tiempos de pandemia
+# Vigilancia genómica de SARS-CoV-2 en Costa Rica
 
-Recursos 
-[Prueba](https://www.sciencedirect.com/science/article/pii/S1567134821001696?via%3Dihub)
+Para acceder a los resultados, ingrese al siguiente link:
+[Resultados de la vigilancia genómica de SARS-CoV-2 en Costa Rica](https://github.com/josemolina6/sarscov2/wiki)
