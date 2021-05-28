@@ -10,4 +10,4 @@ En época de pandemia, la bioinformática es la herramienta más importante para
 
 
 Para acceder a los resultados, ingrese al siguiente link:
-[Resultados de la vigilancia genómica de SARS-CoV-2 en Costa Rica](https://github.com/josemolina6/sarscov2/wiki)
+[PRINCIPALES RESULTADOS](https://github.com/josemolina6/sarscov2/wiki)
